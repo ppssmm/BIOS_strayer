@@ -32,3 +32,25 @@ click(400,700);
 sleep(1800);
 click(500,10);
 }
+sleep(1000);
+home();
+sleep(1000);
+var widget = id("icon_icon").className("android.widget.ImageView").desc("浦东二中心智慧校园").findOne();
+click(widget.bounds().centerX(), widget.bounds().centerY());
+sleep(4000);
+//点击上报
+click(400,700);
+sleep(1000);
+//点击上传PYL图片
+//TBD
+sleep(1000);
+//下拉到底
+swipe(1500, 5000, 200, 500, 500);
+swipe(1500, 5000, 200, 500, 500);
+sleep(1000);
+//点击上传PSM图片
+//TBD
+sleep(1000);
+//点击上报
+//TBD
+sleep(1000);
