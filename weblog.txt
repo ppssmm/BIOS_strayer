@@ -1,3 +1,6 @@
 https://mp.weixin.qq.com/s/ox_7n1RoKuoCYAnAo2dIYg
 
 https://mp.weixin.qq.com/s/N2yD7516d_FkEzu2DM5P5w
+
+curl -s "https://dynv6.com/api/update?hostname=ppssmm2.dynv6.ne
+t&ipv6=auto&token=Ev8xvYP1_WYoxVXo1hymPfAfh9SMqE"
